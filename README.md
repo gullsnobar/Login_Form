@@ -1,1 +1,1 @@
-This is login form I created.
+This is my first Git and GitHub assignment.
